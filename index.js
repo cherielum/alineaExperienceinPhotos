@@ -6,7 +6,7 @@ var time = 3000; //3 second
 image[0]= 'image1.jpeg';
 image[1]= 'image2.jpeg';
 image[2]= 'image3.jpeg'; 
-image[3]= 'image4.jpeg'; 
+image[3]= 'image5.jpeg'; 
 image[4]= 'image6.jpeg'; 
 
 
